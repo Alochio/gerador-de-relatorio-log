@@ -66,6 +66,8 @@ Você pode distribuir o arquivo executável gerado na pasta `dist` para os usuá
 ```
 gerador_relatorio/
 │
-├── gerador_relatorio.py  # Script principal do projeto
-├── README.md             # Este arquivo README
+├── gerador_relatorio.py                # Script principal do projeto
+├── README.md                           # Este arquivo README
+├── dist/
+├──├── gerador de relatorio com logs    #arquivo exe do programa
 ```
