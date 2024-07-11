@@ -1,7 +1,7 @@
 
 # Gerador de Relatório de Acesso
 
-Este projeto é um aplicativo de interface gráfica para gerar relatórios de acesso a partir de arquivos de log. Ele lê arquivos de log de uma pasta especificada, processa os logs e gera relatórios em formato Excel e gráficos em PDF.
+Este projeto é um aplicativo de interface gráfica para gerar relatórios de acesso a partir de arquivos de log. Ele lê arquivos de log de uma pasta especificada, processa os logs e gera relatórios em formato Excel.
 
 ## Funcionalidades
 
